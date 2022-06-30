@@ -1,3 +1,6 @@
 (sym_lib_table
-  (lib (name openevse_specific)(type Legacy)(uri ${KIPRJMOD}/openevse_specific.lib)(options "")(descr ""))
+  (lib (name "openevse_specific")(type "KiCad")(uri "${KIPRJMOD}/openevse_specific.kicad_sym")(options "")(descr ""))
+  (lib (name "openevse_modified-rescue")(type "KiCad")(uri "${KIPRJMOD}/openevse_modified-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "MC002075")(type "KiCad")(uri "${KIPRJMOD}/project_libs/Multicomp/MC002075.kicad_sym")(options "")(descr ""))
+  (lib (name "MC002076")(type "KiCad")(uri "${KIPRJMOD}/project_libs/Multicomp/MC002076.kicad_sym")(options "")(descr ""))
 )
